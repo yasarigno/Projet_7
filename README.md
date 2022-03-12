@@ -35,7 +35,7 @@ https://www.kaggle.com/c/home-credit-default-risk/data
 The notebook contains a standard pipeline of Machine Learning:
 
 <p align="center">
-<img align="center" src="support\MlOps.jpeg" style="width: 700px" />
+<img align="center" src="support\MLOps.jpeg" style="width: 700px" />
 </p>
 
 ---
