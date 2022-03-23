@@ -1,6 +1,9 @@
 ---
 ### PROJET-7
 ### Home Credit Default Risk. 
+
+[Click here](https://yasarigno.github.io/folder/P7_support.pdf) for the presentation file of the project. 
+
 ---
 
 We implement Machine Learning algorithms to predict whether a client of HOME CREDIT will be able to repay a loan or he/she will have repayment difficulties.
